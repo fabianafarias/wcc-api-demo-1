@@ -1,8 +1,8 @@
-##wcc-kotlin-telegram-bot 
+## wcc-kotlin-telegram-bot 
 
-##Criação de uma API com a linguagem Kotlin e o Framework Javalin.
+## Criação de uma API com a linguagem Kotlin e o Framework Javalin.
 
-#Tecnologias usadas:
+# Tecnologias usadas:
 
 - Gradle 7.3
 - Kotlin 1.5.31

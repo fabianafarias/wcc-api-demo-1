@@ -6,6 +6,6 @@
 
 - Gradle 7.3
 - Kotlin 1.5.31
-- Javalin 
+- Javalin 4.1.1 
 
 
